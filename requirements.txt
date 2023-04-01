@@ -1,0 +1,8 @@
+snscrape
+pandas
+numpy
+scikit-learn
+nltk
+textblob
+corpus
+wordcloud
