@@ -12,7 +12,7 @@
 
 ## PROCESS:
 
-- To conduct the sentiment analysis of #jiocinema tweets, I utilized various techniques and tools. Firstly, I did not use the Twitter API to scrape tweets; instead, I used the snscrape library, which is a featureful and user-friendly Python library for scraping tweets. This library provided me with the flexibility to specify various search criteria, such as hashtag, language, date range, and more.
+- To conduct the sentiment analysis of #jiocinema tweets, I utilized various techniques and tools. Firstly, I did not use the Twitter API to scrape tweets; instead, I used the **"snscrape"** library, which is a featureful and user-friendly Python library for scraping tweets. This library provided me with the flexibility to specify various search criteria, such as hashtag, language, date range, and more.
 
 - Secondly, I used the Natural Language Toolkit (nltk), which is a powerful and easy-to-use Python library for natural language processing. I used nltk to preprocess the text data, which included tasks such as tokenization, stopword removal, stemming, and more. This helped in cleaning the tweets and extracting meaningful insights from them.
 
